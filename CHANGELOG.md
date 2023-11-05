@@ -1,3 +1,15 @@
+# v0.0.2 (Sun Nov 05 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Update index.html ([@senbonzak](https://github.com/senbonzak))
+
+#### Authors: 1
+
+- [@senbonzak](https://github.com/senbonzak)
+
+---
+
 # v0.0.1 (Wed Jun 21 2023)
 
 :tada: This release contains work from a new contributor! :tada:
